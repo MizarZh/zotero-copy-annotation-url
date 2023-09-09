@@ -1,13 +1,13 @@
 {
-  "name": "zotero-addon-template",
-  "version": "1.0.0",
-  "description": "Zotero Addon Template",
+  "name": "zotero-copy-annotation-url",
+  "version": "0.0.1",
+  "description": "Copy url of zotero annotation",
   "config": {
-    "addonName": "Zotero Addon Template",
-    "addonID": "addontemplate@euclpts.com",
-    "addonRef": "addontemplate",
+    "addonName": "zotero-copy-annotation-url",
+    "addonID": "MizarZ314159@outlook.com",
+    "addonRef": "copyannotationurl",
     "addonInstance": "AddonTemplate",
-    "prefsPrefix": "extensions.zotero.addontemplate",
+    "prefsPrefix": "extensions.zotero.copyannotationurl",
     "releasepage": "https://github.com/windingwind/zotero-addon-template/releases/latest/download/zotero-addon-template.xpi",
     "updaterdf": "https://raw.githubusercontent.com/windingwind/zotero-addon-template/main/update.json"
   },

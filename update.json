@@ -1,9 +1,9 @@
 {
   "addons": {
-    "addontemplate@euclpts.com": {
+    "MizarZ314159@outlook.com": {
       "updates": [
         {
-          "version": "1.0.0",
+          "version": "0.0.1",
           "update_link": "https://github.com/windingwind/zotero-addon-template/releases/latest/download/zotero-addon-template.xpi",
           "applications": {
             "zotero": {

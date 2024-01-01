@@ -11,7 +11,7 @@ dependencies:
 
 devDependencies:
   '@types/node':
-    specifier: ^20.10.3
+    specifier: ^20.4.2
     version: 20.10.3
   '@typescript-eslint/eslint-plugin':
     specifier: ^6.13.1
@@ -47,8 +47,8 @@ devDependencies:
     specifier: ^16.1.0
     version: 16.1.5
   replace-in-file:
-    specifier: ^7.0.1
-    version: 7.0.1
+    specifier: ^7.1.0
+    version: 7.1.0
   typescript:
     specifier: ^5.1.6
     version: 5.2.2
@@ -3614,8 +3614,8 @@ packages:
       - supports-color
     dev: true
 
-  /replace-in-file@7.0.1:
-    resolution: {integrity: sha512-KbhgPq04eA+TxXuUxpgWIH9k/TjF+28ofon2PXP7vq6izAILhxOtksCVcLuuQLtyjouBaPdlH6RJYYcSPVxCOA==}
+  /replace-in-file@7.1.0:
+    resolution: {integrity: sha512-1uZmJ78WtqNYCSuPC9IWbweXkGxPOtk2rKuar8diTw7naVIQZiE3Tm8ACx2PCMXDtVH6N+XxwaRY2qZ2xHPqXw==}
     engines: {node: '>=10'}
     hasBin: true
     dependencies:
